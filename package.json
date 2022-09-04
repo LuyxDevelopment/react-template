@@ -8,6 +8,7 @@
 	},
 	"license": "MIT",
 	"private": true,
+	"type": "module",
 	"bugs": {
 		"url": "https://github.com/LuyxDevelopment/{project-name}/issues"
 	},
